@@ -12,7 +12,7 @@ Para hacerlo tenemos que hacer un archivo ZIP que contendrá tres archivos.
 
 ## Configuración
 
-En la carpeta Intranet encontraras los tres arhivos , hay que descargarlos y  editar el archivo manifest.json , reemplazando todo lo que diga [TENANT] por el valor adecuado.
+En los archivos(parte superior) encontraras los tres ya mencionados , hay que descargarlos ,  editar el archivo manifest.json  reemplazando todo lo que diga [TENANT] por el valor adecuado.
 Se puede editar las imágenes para utilizar otros logos, solo hay que respetar el formato y las dimensiones.
 
 Teniendo los tres archivos listos
